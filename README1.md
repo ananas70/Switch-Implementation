@@ -1,8 +1,3 @@
-# 1 2 3 (toate)
-# TEMA 1 - RL
-
-Autor: Stoica Ana-Florina, grupa 334 CB
-
 ## Descriere
 
 ### Structuri de date folosite
